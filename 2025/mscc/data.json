@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jochenkirstaetter"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Mauritius Software Craftsmanship Community",
+    "Country": "Mauritius",
+    "Url": "https://www.mscc.mu/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Logo of the Mauritius Software Craftsmanship Community",
+      "File": "mscc.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Vacoas-Phœnix",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "The Hub, Industrial Zone Road, Vacoas-Phœnix, Mauritius",
+        "Latitude": -20.2771838,
+        "Longitude": 57.5002542
+      }
+    ]
+  }
+}
