@@ -31,8 +31,8 @@ Join us on this journey of exploring the limitless potential of AI on Microsoft 
 
 The Global Azure Mauritius 2025 event will be held at FRCI, a leading services provider for IT trainings in Mauritius. The address is:
 
-The Hub
-Industrial Zone Road
+The Hub  
+Industrial Zone Road  
 Vacoas-Phœnix, Mauritius
 
 ## Registration
