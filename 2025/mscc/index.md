@@ -1,7 +1,7 @@
 # Global Azure Mauritius 2025
 
 Welcome to Global Azure Mauritius 2025!  
-Join us for an insightful day at our hosting partner FRCI.
+Join us for an insightful day at our hosting partner frci.
 
 ![Global Azure Mauritius 2025](FRCI_logo.png)
 
@@ -29,7 +29,7 @@ Join us on this journey of exploring the limitless potential of AI on Microsoft 
 
 ## Venue
 
-The Global Azure Mauritius 2025 event will be held at FRCI, a leading services provider for IT trainings in Mauritius. The address is:
+The Global Azure Mauritius 2025 event will be held at frci, a leading services provider for IT trainings in Mauritius. The address is:
 
 The Hub  
 Industrial Zone Road  
