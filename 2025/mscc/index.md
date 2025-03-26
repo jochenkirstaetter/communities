@@ -47,6 +47,6 @@ If you have any questions about the event, please contact the Community organize
 
 * [Shelly](https://www.meetup.com/members/305729361)
 * [Mary Jane](https://www.meetup.com/members/281907731)
-* [Jochen Kirstätter](https://jochen.kirstaetter.name)
+* [Jochen](https://jochen.kirstaetter.name)
 
 We look forward to seeing you at Global Azure Mauritius 2025!
